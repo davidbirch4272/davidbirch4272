@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David Birch
 ===================================================================================================================================
 
-After owning a business for a short time, I decided to learn to code, and in doing so, I re-ignited a sense of adventure in making things work the way that I would like them!
+After owning a business for a short time, I decided to learn to code, and in doing so, I re-ignited a sense of adventure in making things work on computers the way that I would like them!
 
 *   🌍  I'm based in Boston  
 *   ✉️  You can contact me at [davidbirch4272@gmail.com](mailto:davidbirch4272@gmail.com)
