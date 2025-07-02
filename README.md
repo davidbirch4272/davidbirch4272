@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 After owning a business for a short time, I decided to learn to code, and in doing so, I re-ignited a sense of adventure in making things work the way that I would like them!
 
-*   🌍  I'm based in Boston
+*   🌍  I'm based in Boston  
 *   ✉️  You can contact me at [davidbirch4272@gmail.com](mailto:davidbirch4272@gmail.com)
 *   ⚡  I am going to be recreating a website that I created through A.I. for my business as well as three other website projects that are in que.<a href="https://www.github.com/davidbirch4272" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/davidbirch4272?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a>### Skills 
